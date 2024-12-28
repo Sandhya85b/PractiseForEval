@@ -1,0 +1,1 @@
+export const baseUrl="https://elated-splashy-almanac.glitch.me";
